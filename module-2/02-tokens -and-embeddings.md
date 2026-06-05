@@ -22,7 +22,6 @@ Understand:The model never sees the sentence directly.It only sees tokens.
 
 ---
 ## Token ids and Embeddings
-
 Computers cannot understand tokens so these are converted to numbers known as the token ids.
 So basically computers see the token ids! These ids are like identifications of tokens.
 These token ids are n't enough for overseeing the similarity between tokens.So we need something more...
