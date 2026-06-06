@@ -21,4 +21,4 @@ The goal of this course is not only to use existing frameworks but also to under
 
 #
 
-This is a repository is where i would like to document my learning journey.I planned to learn topics day by day and i also have provided links to the relevant topics which i felt useful ,so do try them and learn something everyday to add some knowledge to our little capacity brain, don't learn everything in one day ,the brain might explode!😏
+This is a repository where i would like to document my learning journey of understanding the agents.I planned to learn topics day by day and i also have provided links to the relevant topics which i felt useful ,so do try them and learn something everyday to add some knowledge to our little capacity brain, don't learn everything in one day ,the brain might explode!😏
